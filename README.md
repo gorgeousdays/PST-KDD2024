@@ -28,7 +28,7 @@ python main.py
 ```
 
 ### Inference
-Download the model from and place the model in `out/`
+Download the [model](https://drive.google.com/file/d/11qpcB6QEZ_O-MumPpVInvg1yYDMPr0tS/view?usp=sharing) and place the model in `out/specter2/specter2`
 ```
 python inference.py
 ```
